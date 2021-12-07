@@ -5,7 +5,7 @@
 ✅ Valores das moedas para este exercicio foram usadas valores em tempo real, valor real da moeda atualmente na alta  <br>
 ✅ Os valores, bandeiras e qual moeda selecionada, se alteram automaticamente com a mudança nas seleções 
 
-<strong>https://viniciusfonsecapr.github.io/Convert-Money-CodeClub/</strong> 
+<strong></strong> 
 
 
 ![codeclubconvertmoney](https://user-images.githubusercontent.com/87347314/143511215-47691aa9-7d4a-4865-991f-7dbb3dc0d876.png)
